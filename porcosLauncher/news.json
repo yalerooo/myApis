@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": 1,
+    "title": "Noticia Importante 1",
+    "content": "<p>Este es el contenido de la noticia 1. Aquí puedes incluir texto en formato HTML.</p>",
+    "date": "2025-03-24",
+    "image": "news1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Noticia Destacada 2",
+    "content": "<p>Contenido relevante de la noticia 2. También puede incluir enlaces, imágenes u otros elementos HTML.</p>",
+    "date": "2025-03-23",
+    "image": "news1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Noticia de Última Hora 3",
+    "content": "<p>Detalles importantes sobre la noticia 3. Puede ser un resumen o una cita de la noticia en texto HTML.</p>",
+    "date": "2025-03-22",
+    "image": "news1.jpg"
+  }
+]
