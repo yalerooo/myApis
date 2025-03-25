@@ -1,23 +1,122 @@
 [
   {
     "id": 1,
-    "title": "Noticia Importante 1",
-    "content": "<p>Este es el contenido de la noticia 1. Aquí puedes incluir texto en formato HTML.</p>",
+    "title": "Lanzamiento de Minecraft 1.21",
+    "content": "<p>La nueva actualización 1.21 trae mejoras en Redstone, nuevos biomas y más mobs.</p>",
     "date": "2025-03-24",
-    "image": "news1.jpg"
+    "image": "minecraft_1_21.jpg",
+    "type": "major_update"
   },
   {
     "id": 2,
-    "title": "Noticia Destacada 2",
-    "content": "<p>Contenido relevante de la noticia 2. También puede incluir enlaces, imágenes u otros elementos HTML.</p>",
+    "title": "Se revela la nueva dimensión del Vacío",
+    "content": "<p>Mojang presenta una misteriosa dimensión oculta en la próxima versión de Minecraft.</p>",
     "date": "2025-03-23",
-    "image": "news1.jpg"
+    "image": "void_dimension.jpg",
+    "type": "news"
   },
   {
     "id": 3,
-    "title": "Noticia de Última Hora 3",
-    "content": "<p>Detalles importantes sobre la noticia 3. Puede ser un resumen o una cita de la noticia en texto HTML.</p>",
+    "title": "Snapshot 25w07a disponible",
+    "content": "<p>Incluye ajustes en la generación del Nether y nuevos encantamientos.</p>",
     "date": "2025-03-22",
-    "image": "news1.jpg"
+    "image": "snapshot_25w07a.jpg",
+    "type": "news"
+  },
+  {
+    "id": 4,
+    "title": "Minecraft Dungeons recibe actualización masiva",
+    "content": "<p>La expansión agrega nuevas mazmorras, jefes y equipo legendario.</p>",
+    "date": "2025-03-21",
+    "image": "minecraft_dungeons.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 5,
+    "title": "Rumores sobre la película de Minecraft",
+    "content": "<p>Se filtran detalles sobre la historia y actores involucrados en la adaptación cinematográfica.</p>",
+    "date": "2025-03-20",
+    "image": "minecraft_movie.jpg",
+    "type": "news"
+  },
+  {
+    "id": 6,
+    "title": "Minecraft Legends agrega nuevos eventos",
+    "content": "<p>Eventos semanales y desafíos cooperativos llegan al popular spin-off.</p>",
+    "date": "2025-03-19",
+    "image": "minecraft_legends.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 7,
+    "title": "Nuevas funciones en el Modo Espectador",
+    "content": "<p>Mojang mejora la visibilidad y controles del Modo Espectador.</p>",
+    "date": "2025-03-18",
+    "image": "spectator_mode.jpg",
+    "type": "news"
+  },
+  {
+    "id": 8,
+    "title": "Minecraft supera los 300 millones de copias vendidas",
+    "content": "<p>El juego continúa batiendo récords en la industria de los videojuegos.</p>",
+    "date": "2025-03-17",
+    "image": "minecraft_sales.jpg",
+    "type": "news"
+  },
+  {
+    "id": 9,
+    "title": "Actualización de gráficos en Minecraft Bedrock",
+    "content": "<p>Se añaden nuevas opciones de iluminación y texturas en 4K.</p>",
+    "date": "2025-03-16",
+    "image": "bedrock_graphics.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 10,
+    "title": "Nuevo récord de jugadores concurrentes",
+    "content": "<p>Más de 10 millones de jugadores conectados simultáneamente.</p>",
+    "date": "2025-03-15",
+    "image": "player_record.jpg",
+    "type": "news"
+  },
+  {
+    "id": 11,
+    "title": "Se anuncia Minecon 2025",
+    "content": "<p>El evento más esperado por la comunidad se celebrará en junio.</p>",
+    "date": "2025-03-14",
+    "image": "minecon_2025.jpg",
+    "type": "news"
+  },
+  {
+    "id": 12,
+    "title": "Minecraft Education Edition añade programación avanzada",
+    "content": "<p>Se incorporan nuevos bloques de código y soporte para Python.</p>",
+    "date": "2025-03-13",
+    "image": "education_edition.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 13,
+    "title": "Nuevas skins y packs temáticos en la Marketplace",
+    "content": "<p>Se lanza una colección inspirada en mitología nórdica.</p>",
+    "date": "2025-03-12",
+    "image": "marketplace_skins.jpg",
+    "type": "news"
+  },
+  {
+    "id": 14,
+    "title": "Minecraft recibe optimización para Steam Deck",
+    "content": "<p>La nueva versión mejora la compatibilidad y rendimiento en la portátil de Valve.</p>",
+    "date": "2025-03-11",
+    "image": "steam_deck.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 15,
+    "title": "Nuevos mobs descubiertos en la beta de Minecraft",
+    "content": "<p>Los jugadores encuentran mobs ocultos que podrían llegar en la próxima actualización.</p>",
+    "date": "2025-03-10",
+    "image": "new_mobs.jpg",
+    "type": "news"
   }
 ]
