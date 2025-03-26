@@ -1,122 +1,242 @@
 [
   {
     "id": 1,
-    "title": "Lanzamiento de Minecraft 1.21",
-    "content": "<p>La nueva actualización 1.21 trae mejoras en Redstone, nuevos biomas y más mobs.</p>",
-    "date": "2025-03-24",
-    "image": "minecraft_1_21.jpg",
+    "title": "Release of Minecraft 1.0.0",
+    "content": "<p>The official release of Minecraft!  Includes Survival mode, monsters, and crafting.</p>",
+    "date": "2011-11-18",
+    "image": "minecraft_1_0_0.jpg",
     "type": "major_update"
   },
   {
     "id": 2,
-    "title": "Se revela la nueva dimensión del Vacío",
-    "content": "<p>Mojang presenta una misteriosa dimensión oculta en la próxima versión de Minecraft.</p>",
-    "date": "2025-03-23",
-    "image": "void_dimension.jpg",
-    "type": "news"
-  },
-  {
-    "id": 3,
-    "title": "Snapshot 25w07a disponible",
-    "content": "<p>Incluye ajustes en la generación del Nether y nuevos encantamientos.</p>",
-    "date": "2025-03-22",
-    "image": "snapshot_25w07a.jpg",
-    "type": "news"
-  },
-  {
-    "id": 4,
-    "title": "Minecraft Dungeons recibe actualización masiva",
-    "content": "<p>La expansión agrega nuevas mazmorras, jefes y equipo legendario.</p>",
-    "date": "2025-03-21",
-    "image": "minecraft_dungeons.jpg",
+    "title": "Release of Minecraft 1.1 (Adventure Update)",
+    "content": "<p>The Adventure Update introduces new world height, biomes, and more.</p>",
+    "date": "2011-12-01",
+    "image": "minecraft_1_1.jpg",
     "type": "major_update"
   },
   {
+    "id": 3,
+    "title": "Release of Minecraft 1.2 (The Update That Added Iron Golems)",
+    "content": "<p>This update brings new AI, new blocks, and other improvements.</p>",
+    "date": "2012-03-01",
+    "image": "minecraft_1_2.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 4,
+    "title": "Release of Minecraft 1.3 (The Update That Added Trading)",
+    "content": "<p>This update introduces trading, adventure mode, and more.</p>",
+    "date": "2012-08-01",
+    "image": "minecraft_1_3.jpg",
+    "type": "major_update"
+  },
+    {
     "id": 5,
-    "title": "Rumores sobre la película de Minecraft",
-    "content": "<p>Se filtran detalles sobre la historia y actores involucrados en la adaptación cinematográfica.</p>",
-    "date": "2025-03-20",
-    "image": "minecraft_movie.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.4 (The Pretty Scary Update)",
+    "content": "<p>Adds Wither, bats, beacons, zombie villagers, and more!</p>",
+    "date": "2012-10-25",
+    "image": "minecraft_1_4.jpg",
+    "type": "major_update"
   },
   {
     "id": 6,
-    "title": "Minecraft Legends agrega nuevos eventos",
-    "content": "<p>Eventos semanales y desafíos cooperativos llegan al popular spin-off.</p>",
-    "date": "2025-03-19",
-    "image": "minecraft_legends.jpg",
+    "title": "Release of Minecraft 1.5 (The Redstone Update)",
+    "content": "<p>Focuses on improvements to Redstone mechanics and new Redstone components.</p>",
+    "date": "2013-03-13",
+    "image": "minecraft_1_5.jpg",
     "type": "major_update"
   },
   {
     "id": 7,
-    "title": "Nuevas funciones en el Modo Espectador",
-    "content": "<p>Mojang mejora la visibilidad y controles del Modo Espectador.</p>",
-    "date": "2025-03-18",
-    "image": "spectator_mode.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.6 (The Horse Update)",
+    "content": "<p>Introduces horses, leads, carpets, and more.</p>",
+    "date": "2013-07-01",
+    "image": "minecraft_1_6.jpg",
+    "type": "major_update"
   },
   {
     "id": 8,
-    "title": "Minecraft supera los 300 millones de copias vendidas",
-    "content": "<p>El juego continúa batiendo récords en la industria de los videojuegos.</p>",
-    "date": "2025-03-17",
-    "image": "minecraft_sales.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.7 (The Update that Changed the World)",
+    "content": "<p>Major changes to world generation, new biomes, and improved structures.</p>",
+    "date": "2013-10-25",
+    "image": "minecraft_1_7.jpg",
+    "type": "major_update"
   },
-  {
+    {
     "id": 9,
-    "title": "Actualización de gráficos en Minecraft Bedrock",
-    "content": "<p>Se añaden nuevas opciones de iluminación y texturas en 4K.</p>",
-    "date": "2025-03-16",
-    "image": "bedrock_graphics.jpg",
+    "title": "Release of Minecraft 1.8 (The Bountiful Update)",
+    "content": "<p>Adds ocean monuments, slime blocks, banners, and more.</p>",
+    "date": "2014-09-02",
+    "image": "minecraft_1_8.jpg",
     "type": "major_update"
   },
   {
     "id": 10,
-    "title": "Nuevo récord de jugadores concurrentes",
-    "content": "<p>Más de 10 millones de jugadores conectados simultáneamente.</p>",
-    "date": "2025-03-15",
-    "image": "player_record.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.9 (The Combat Update)",
+    "content": "<p>Overhauls the combat system with dual wielding, shields, and new attack mechanics.</p>",
+    "date": "2016-02-29",
+    "image": "minecraft_1_9.jpg",
+    "type": "major_update"
   },
   {
     "id": 11,
-    "title": "Se anuncia Minecon 2025",
-    "content": "<p>El evento más esperado por la comunidad se celebrará en junio.</p>",
-    "date": "2025-03-14",
-    "image": "minecon_2025.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.10 (The Frostburn Update)",
+    "content": "<p>Adds polar bears, husks, strays, fossils, and new world generation features.</p>",
+    "date": "2016-06-08",
+    "image": "minecraft_1_10.jpg",
+    "type": "major_update"
   },
   {
     "id": 12,
-    "title": "Minecraft Education Edition añade programación avanzada",
-    "content": "<p>Se incorporan nuevos bloques de código y soporte para Python.</p>",
-    "date": "2025-03-13",
-    "image": "education_edition.jpg",
+    "title": "Release of Minecraft 1.11 (The Exploration Update)",
+    "content": "<p>Focuses on exploration with woodland mansions, llamas, and new advancements.</p>",
+    "date": "2016-11-14",
+    "image": "minecraft_1_11.jpg",
     "type": "major_update"
   },
   {
     "id": 13,
-    "title": "Nuevas skins y packs temáticos en la Marketplace",
-    "content": "<p>Se lanza una colección inspirada en mitología nórdica.</p>",
-    "date": "2025-03-12",
-    "image": "marketplace_skins.jpg",
-    "type": "news"
+    "title": "Release of Minecraft 1.12 (The World of Color Update)",
+    "content": "<p>Adds concrete, glazed terracotta, parrots, and a recipe book.</p>",
+    "date": "2017-06-07",
+    "image": "minecraft_1_12.jpg",
+    "type": "major_update"
   },
   {
     "id": 14,
-    "title": "Minecraft recibe optimización para Steam Deck",
-    "content": "<p>La nueva versión mejora la compatibilidad y rendimiento en la portátil de Valve.</p>",
-    "date": "2025-03-11",
-    "image": "steam_deck.jpg",
+    "title": "Release of Minecraft 1.13 (The Update Aquatic)",
+    "content": "<p>Completely overhauls the ocean with new biomes, mobs, and blocks.</p>",
+    "date": "2018-07-18",
+    "image": "minecraft_1_13.jpg",
     "type": "major_update"
   },
   {
     "id": 15,
-    "title": "Nuevos mobs descubiertos en la beta de Minecraft",
-    "content": "<p>Los jugadores encuentran mobs ocultos que podrían llegar en la próxima actualización.</p>",
-    "date": "2025-03-10",
-    "image": "new_mobs.jpg",
+    "title": "Release of Minecraft 1.14 (Village & Pillage)",
+    "content": "<p>Revamps villages, adds pillagers, and new villagers.</p>",
+    "date": "2019-04-23",
+    "image": "minecraft_1_14.jpg",
+    "type": "major_update"
+  },
+    {
+    "id": 16,
+    "title": "Release of Minecraft 1.15 (Buzzy Bees)",
+    "content": "<p>Introduces bees, beehives, and honey blocks.</p>",
+    "date": "2019-12-10",
+    "image": "minecraft_1_15.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 17,
+    "title": "Release of Minecraft 1.16 (Nether Update)",
+    "content": "<p>Overhauls the Nether dimension with new biomes, mobs, and structures.</p>",
+    "date": "2020-06-23",
+    "image": "minecraft_1_16.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 18,
+    "title": "Release of Minecraft 1.17 (Caves & Cliffs: Part I)",
+    "content": "<p>Adds axolotls, glow squids, goats, and new blocks related to caves and cliffs.</p>",
+    "date": "2021-06-08",
+    "image": "minecraft_1_17.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 19,
+    "title": "Release of Minecraft 1.18 (Caves & Cliffs: Part II)",
+    "content": "<p>Expands world generation with larger caves, taller mountains, and new ore distribution.</p>",
+    "date": "2021-11-30",
+    "image": "minecraft_1_18.jpg",
+    "type": "major_update"
+  },
+  {
+   "id": 20,
+    "title": "Release of Minecraft 1.19 (The Wild Update)",
+    "content": "<p>Adds the Deep Dark biome, the Warden, frogs, allays, and mangrove swamps.</p>",
+    "date": "2022-06-07",
+    "image": "minecraft_1_19.jpg",
+    "type": "major_update"
+  },
+  {
+   "id": 21,
+    "title": "Release of Minecraft 1.20 (Trails & Tales)",
+    "content": "<p>Adds the Camel, Cherry Grove biome, archeology, and armor trimming.</p>",
+    "date": "2023-06-07",
+    "image": "minecraft_1_20.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 22,
+    "title": "Release of Minecraft 1.21",
+    "content": "<p>The new update 1.21 brings improvements to Redstone, new biomes and more mobs.</p>",
+    "date": "2024-TBD",
+    "image": "minecraft_1_21.jpg",
+    "type": "major_update"
+  },
+  {
+    "id": 23,
+    "title": "Porcos Launcher Update v1.0 Released!",
+    "content": "<p>The first official version of Porcos Launcher is now available! Enjoy a streamlined Minecraft experience with easy instance management and more.</p>",
+    "date": "2024-02-29",
+    "image": "launcher_v1_release.jpg",
+    "type": "news"
+  },
+  {
+    "id": 24,
+    "title": "Instance Management Feature Added",
+    "content": "<p>Manage multiple Minecraft instances with ease!  Create, delete, and switch between instances directly within the launcher.</p>",
+    "date": "2024-03-05",
+    "image": "instance_management.png",
+    "type": "news"
+  },
+  {
+    "id": 25,
+    "title": "Custom Version Images Now Supported",
+    "content": "<p>Personalize your Minecraft versions! Set custom images for each installed version to easily identify them.</p>",
+    "date": "2024-03-10",
+    "image": "custom_version_images.jpg",
+    "type": "news"
+  },
+  {
+    "id": 26,
+    "title": "Improved Download Handling for Faster Updates",
+    "content": "<p>We've optimized the download process! Get your Minecraft updates and mods faster than ever before.</p>",
+    "date": "2024-03-15",
+    "image": "download_optimization.png",
+    "type": "news"
+  },
+  {
+    "id": 27,
+    "title": "Console Output Display Added",
+    "content": "<p>See what's happening behind the scenes! The launcher now displays real-time console output from Minecraft, helping you diagnose issues.</p>",
+    "date": "2024-03-20",
+    "image": "console_output.png",
+    "type": "news"
+  },
+  {
+    "id": 28,
+    "title": "User Settings Now Persisted",
+    "content": "<p>Your settings are saved!  Username, memory allocation, and other preferences are now automatically saved and loaded between sessions.</p>",
+    "date": "2024-03-25",
+    "image": "settings_persistence.jpg",
+    "type": "news"
+  },
+  {
+    "id": 29,
+    "title": "Bug Fix:  Launch Issues Resolved",
+    "content": "<p>Addressed a critical bug that caused occasional launch failures.  The launcher is now more stable and reliable.</p>",
+    "date": "2024-03-28",
+    "image": "bug_fix_launch.png",
+    "type": "news"
+  },
+  {
+    "id": 30,
+    "title": "Upcoming:  Mod Management Integration",
+    "content": "<p>We're working on integrated mod management!  Soon you'll be able to easily install, update, and manage your favorite mods directly within the launcher.</p>",
+    "date": "2024-04-01",
+    "image": "mod_management_teaser.jpg",
     "type": "news"
   }
 ]
