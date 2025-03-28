@@ -12,7 +12,7 @@
     "title": "Release of Minecraft 1.1 (Adventure Update)",
     "content": "<p>The Adventure Update introduces new world height, biomes, and more.</p>",
     "date": "2011-12-01",
-    "image": "minecraft_1_1.jpg",
+    "image": "minecraft_1_1.png",
     "type": "major_update"
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "title": "Release of Minecraft 1.6 (The Horse Update)",
+    "title": "Release of Minecraft 1.6.1 (The Horse Update)",
     "content": "<p>Introduces horses, leads, carpets, and more.</p>",
     "date": "2013-07-01",
     "image": "minecraft_1_6.jpg",
@@ -68,7 +68,7 @@
     "title": "Release of Minecraft 1.8 (The Bountiful Update)",
     "content": "<p>Adds ocean monuments, slime blocks, banners, and more.</p>",
     "date": "2014-09-02",
-    "image": "minecraft_1_8.jpg",
+    "image": "minecraft_1_8.png",
     "type": "major_update"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Release of Minecraft 1.9 (The Combat Update)",
     "content": "<p>Overhauls the combat system with dual wielding, shields, and new attack mechanics.</p>",
     "date": "2016-02-29",
-    "image": "minecraft_1_9.jpg",
+    "image": "minecraft_1_9.png",
     "type": "major_update"
   },
   {
@@ -84,7 +84,7 @@
     "title": "Release of Minecraft 1.10 (The Frostburn Update)",
     "content": "<p>Adds polar bears, husks, strays, fossils, and new world generation features.</p>",
     "date": "2016-06-08",
-    "image": "minecraft_1_10.jpg",
+    "image": "minecraft_1_10.png",
     "type": "major_update"
   },
   {
@@ -92,7 +92,7 @@
     "title": "Release of Minecraft 1.11 (The Exploration Update)",
     "content": "<p>Focuses on exploration with woodland mansions, llamas, and new advancements.</p>",
     "date": "2016-11-14",
-    "image": "minecraft_1_11.jpg",
+    "image": "minecraft_1_11.png",
     "type": "major_update"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Release of Minecraft 1.12 (The World of Color Update)",
     "content": "<p>Adds concrete, glazed terracotta, parrots, and a recipe book.</p>",
     "date": "2017-06-07",
-    "image": "minecraft_1_12.jpg",
+    "image": "minecraft_1_12.png",
     "type": "major_update"
   },
   {
@@ -108,7 +108,7 @@
     "title": "Release of Minecraft 1.13 (The Update Aquatic)",
     "content": "<p>Completely overhauls the ocean with new biomes, mobs, and blocks.</p>",
     "date": "2018-07-18",
-    "image": "minecraft_1_13.jpg",
+    "image": "minecraft_1_13.png",
     "type": "major_update"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Release of Minecraft 1.14 (Village & Pillage)",
     "content": "<p>Revamps villages, adds pillagers, and new villagers.</p>",
     "date": "2019-04-23",
-    "image": "minecraft_1_14.jpg",
+    "image": "minecraft_1_14.png",
     "type": "major_update"
   },
     {
@@ -124,7 +124,7 @@
     "title": "Release of Minecraft 1.15 (Buzzy Bees)",
     "content": "<p>Introduces bees, beehives, and honey blocks.</p>",
     "date": "2019-12-10",
-    "image": "minecraft_1_15.jpg",
+    "image": "minecraft_1_15.png",
     "type": "major_update"
   },
   {
@@ -132,7 +132,7 @@
     "title": "Release of Minecraft 1.16 (Nether Update)",
     "content": "<p>Overhauls the Nether dimension with new biomes, mobs, and structures.</p>",
     "date": "2020-06-23",
-    "image": "minecraft_1_16.jpg",
+    "image": "minecraft_1_16.png",
     "type": "major_update"
   },
   {
@@ -164,7 +164,7 @@
     "title": "Release of Minecraft 1.20 (Trails & Tales)",
     "content": "<p>Adds the Camel, Cherry Grove biome, archeology, and armor trimming.</p>",
     "date": "2023-06-07",
-    "image": "minecraft_1_20.jpg",
+    "image": "minecraft_1_20.png",
     "type": "major_update"
   },
   {
@@ -172,7 +172,7 @@
     "title": "Release of Minecraft 1.21",
     "content": "<p>The new update 1.21 brings improvements to Redstone, new biomes and more mobs.</p>",
     "date": "2024-TBD",
-    "image": "minecraft_1_21.jpg",
+    "image": "minecraft_1_21.png",
     "type": "major_update"
   },
   {
@@ -238,5 +238,13 @@
     "date": "2024-04-01",
     "image": "mod_management_teaser.jpg",
     "type": "news"
+  },
+  {
+    "id": 31,
+    "title": "Release of Minecraft 1.21.5",
+    "content": "<p>The new update 1.21.5  brings more reasons to explore both near and far!</p>",
+    "date": "2024-TBD",
+    "image": "minecraft_1_21.5.jpg",
+    "type": "major_update"
   }
 ]
