@@ -1,18 +1,18 @@
 {
   "modpacks": [
     {
-      "id": "porcos-survival",
-      "name": "Porcos Survival",
+      "id": "porcosland3",
+      "name": "PorcosLand 3",
       "version": "1.0.0",
       "description": "Modpack oficial del servidor Porcos Survival",
       "minecraftVersion": "1.20.1",
       "forgeVersion": "47.2.0",
-      "downloadUrl": "https://github.com/yalerooo/PorcosLauncher/releases/download/modpacks/porcos-survival-1.0.0.zip",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/Porcosland3Prueba/porcospackPrueba.rar",
       "filesToDelete": [
         "mods/oldmod.jar",
         "config/oldconfig.cfg"
       ],
-      "icon": "https://raw.githubusercontent.com/yalerooo/PorcosLauncher/main/modpack-icons/porcos-survival.png"
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/Minecraft_Launcher.png"
     },
     {
       "id": "porcos-pixelmon",
