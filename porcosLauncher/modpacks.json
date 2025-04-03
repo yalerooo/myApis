@@ -33,7 +33,7 @@
       "description": "Modpack oficial de Entre Tiles",
       "minecraftVersion": "1.21.4",
       "forgeVersion": "36.2.39",
-      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/EntreTilesv1.1/modstiles.rar",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/EntreTilesv1.1/modstilers.rar",
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/pack.png?raw=true"
