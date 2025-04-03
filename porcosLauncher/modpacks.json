@@ -12,21 +12,19 @@
         "mods/oldmod.jar",
         "config/oldconfig.cfg"
       ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/Minecraft_Launcher.png"
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/Minecraft_Launcher.png?raw=true"
     },
     {
-      "id": "porcos-pixelmon",
-      "name": "Porcos Pixelmon",
-      "version": "2.1.0",
-      "description": "Modpack oficial del servidor Porcos Pixelmon",
-      "minecraftVersion": "1.16.5",
+      "id": "tilescubilet",
+      "name": "Tiles Cubilet",
+      "version": "1.0.0",
+      "description": "Modpack oficial de Entre Tiles",
+      "minecraftVersion": "1.21.4",
       "forgeVersion": "36.2.39",
-      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/Porcosland3Prueba/porcospackPrueba.rar",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/EntreTiles/EntreTiles.rar",
       "filesToDelete": [
-        "mods/pixelmon-1.16.5-9.0.11-universal.jar",
-        "config/pixelmon/spawning.json"
       ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/Minecraft_Launcher.png"
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/pack.png?raw=true"
     }
   ]
 }
