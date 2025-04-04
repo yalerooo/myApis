@@ -196,7 +196,7 @@
     "title": "Custom Version Images Now Supported",
     "content": "<p>Personalize your Minecraft versions! Set custom images for each installed version to easily identify them.</p>",
     "date": "2024-03-10",
-    "image": "custom_version_images.jpg",
+    "image": "custom_version_images.png",
     "type": "news"
   },
   {
@@ -220,7 +220,7 @@
     "title": "User Settings Now Persisted",
     "content": "<p>Your settings are saved!  Username, memory allocation, and other preferences are now automatically saved and loaded between sessions.</p>",
     "date": "2024-03-25",
-    "image": "settings_persistence.jpg",
+    "image": "settings_persistence.png",
     "type": "news"
   },
   {
@@ -236,7 +236,7 @@
     "title": "Upcoming:  Mod Management Integration",
     "content": "<p>We're working on integrated mod management!  Soon you'll be able to easily install, update, and manage your favorite mods directly within the launcher.</p>",
     "date": "2024-04-01",
-    "image": "mod_management_teaser.jpg",
+    "image": "mod_management_teaser.png",
     "type": "news"
   },
   {
