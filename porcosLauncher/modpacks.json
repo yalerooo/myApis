@@ -37,6 +37,22 @@
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/pack.png?raw=true"
+    },
+    {
+      "id": "porcosland2",
+      "name": "PorcosLand2",
+      "version": "1.1.0",
+      "description": "Modpack oficial de Entre Tiles",
+      "minecraftVersion": "1.20.1",
+      "forgeVersion": "47.4.39",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/default.porcosland2.part1.rar",
+      "downloadUrl2": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/default.porcosland2.part2.rar",
+      "downloadUrl3": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/default.porcosland2.part3.rar",
+      "downloadUrl4": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/default.porcosland2.part4.rar",
+      "downloadUrl5": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/default.porcosland2.part5.rar",
+      "filesToDelete": [
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland.png?raw=true"
     }
   ]
 }
