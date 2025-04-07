@@ -45,11 +45,11 @@
       "description": "Modpack oficial de PorcosLand 2",
       "minecraftVersion": "1.20.1",
       "forgeVersion": "47.4.39",
-      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/porcosland2_part1.rar",
-      "downloadUrl2": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/porcosland2_part2.rar",
-      "downloadUrl3": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/porcosland2_part3.rar",
-      "downloadUrl4": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/porcosland2_part4.rar",
-      "downloadUrl5": "https://github.com/yalerooo/myApis/releases/download/Porcosland2/porcosland2_part5.rar",
+      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part1.rar",
+      "downloadUrl2": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part2.rar",
+      "downloadUrl3": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part3.rar",
+      "downloadUrl4": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part4.rar",
+      "downloadUrl5": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part5.rar",
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland.png?raw=true"
