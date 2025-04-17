@@ -1,20 +1,6 @@
 {
   "modpacks": [
     {
-      "id": "porcosland3",
-      "name": "PorcosLand 3",
-      "version": "1.0.0",
-      "description": "Modpack oficial del servidor Porcos Survival",
-      "minecraftVersion": "1.20.1",
-      "forgeVersion": "47.2.0",
-      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/Porcosland3Prueba/porcospackPrueba.rar",
-      "filesToDelete": [
-        "mods/oldmod.jar",
-        "config/oldconfig.cfg"
-      ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/Minecraft_Launcher.png?raw=true"
-    },
-    {
       "id": "tilescubilet",
       "name": "Tiles Cubilet",
       "version": "1.0.0",
@@ -53,6 +39,18 @@
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland.png?raw=true"
+    },
+    {
+      "id": "porcosland3",
+      "name": "PorcosLand 3",
+      "version": "1.0.0",
+      "description": "Modpack oficial de PorcosLand 3",
+      "minecraftVersion": "1.21.1",
+      "forgeVersion": "36.2.39",
+      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.0/porcosland3.rar",
+      "filesToDelete": [
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
     }
   ]
 }
