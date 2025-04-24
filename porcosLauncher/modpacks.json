@@ -51,6 +51,20 @@
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
+    },
+    {
+      "id": "porcosland3",
+      "name": "PorcosLand 3",
+      "version": "1.1.0",
+      "description": "Modpack oficial de PorcosLand 3",
+      "minecraftVersion": "1.21.1",
+      "forgeVersion": "36.2.39",
+      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.1/porcosland3v1.1.0.rar",
+      "filesToDelete": [
+        "sparsestructures-fabric-1.21.1-2.2.0.jar",
+        "gravestones-1.0.9.jar"
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
     }
   ]
 }
