@@ -1,0 +1,15 @@
+{
+  "modpacks": [
+    {
+      "id": "Porcosland3",
+      "name": "Porcosland 3",
+      "version": "1.0.0",
+      "description": "Modpack oficial de Porcosland 3",
+      "minecraftVersion": "1.21.1",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/pruebaPorcos/Porcosland3.1.0.0.mrpack",
+      "filesToDelete": [
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
+    }
+  ]
+}
