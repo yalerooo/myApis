@@ -1,15 +1,39 @@
 {
   "modpacks": [
     {
-      "id": "Porcosland3",
-      "name": "Porcosland 3",
-      "version": "1.0.0",
-      "description": "Modpack oficial de Porcosland 3",
-      "minecraftVersion": "1.21.1",
-      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/pruebaPorcos/Porcosland3.1.0.0.mrpack",
-      "filesToDelete": [
-      ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
+      "id": "porcosland3",
+      "slug": "porcosland3",
+      "title": "Porcosland 3",
+      "description": "El modpack oficial de Porcosland 3",
+      "categories": ["modpack"],
+      "downloads": 100,
+      "icon_url": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true",
+      "author": "PorcosPacks",
+      "project_type": "modpack",
+      "versions": [
+        {
+          "id": "porcosland3-1_0_0",
+          "project_id": "porcosland3",
+          "name": "1.0.0",
+          "version_number": "1.0.0",
+          "changelog": "Versión inicial del modpack",
+          "date_published": "2025-01-01T00:00:00Z",
+          "game_versions": ["1.21.1"],
+          "loaders": ["forge", "fabric"],
+          "files": [
+            {
+              "url": "https://github.com/yalerooo/myApis/releases/download/pruebaPorcos/Porcosland3.1.0.0.mrpack",
+              "filename": "Porcosland3-1.0.0.mrpack",
+              "primary": true,
+              "hashes": {
+                "sha1": "hash_aquí_si_lo_tienes"
+              },
+              "size": 5000000
+            }
+          ],
+          "dependencies": []
+        }
+      ]
     }
   ]
 }
