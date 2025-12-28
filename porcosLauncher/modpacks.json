@@ -8,6 +8,7 @@
       "minecraftVersion": "1.21.4",
       "modLoader": "Fabric",
       "loaderVersion": "0.16.10",
+      "wallpaper": "https://4kwallpapers.com/images/wallpapers/minecraft-spring-to-3840x2160-21999.jpg",
       "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/EntreTiles/EntreTiles.rar",
       "filesToDelete": [
       ],
@@ -21,6 +22,7 @@
       "minecraftVersion": "1.21.4",
       "modLoader": "Fabric",
       "loaderVersion": "0.16.10",
+      "wallpaper": "https://c4.wallpaperflare.com/wallpaper/1010/613/78/minecraft-minecraft-dungeons-minecraft-the-end-enderman-minecraft-4k-hd-wallpaper-preview.jpg",
       "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/EntreTilesv1.1/modstilers.rar",
       "filesToDelete": [
       ],
@@ -34,6 +36,7 @@
       "minecraftVersion": "1.20.1",
       "modLoader": "Forge",
       "loaderVersion": "47.4.39",
+      "wallpaper": "https://i.pinimg.com/736x/39/95/89/399589c09aedd0e1e6349617bdfcb0ad.jpg",
       "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part1.rar",
       "downloadUrl2": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part2.rar",
       "downloadUrl3": "https://github.com/yalero/modpacks/releases/download/porcosland2/porcosland2_part3.rar",
@@ -51,6 +54,7 @@
       "minecraftVersion": "1.21.1",
       "modLoader": "Forge",
       "loaderVersion": "36.2.39",
+      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
       "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.0/porcosland3.rar",
       "filesToDelete": [
       ],
@@ -64,6 +68,7 @@
       "minecraftVersion": "1.21.1",
       "modLoader": "Forge",
       "loaderVersion": "36.2.39",
+      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
       "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.1/porcosland3v1.1.0.rar",
       "filesToDelete": [
         "mods/sparsestructures-fabric-1.21.1-2.2.0.jar",
@@ -79,6 +84,7 @@
       "minecraftVersion": "1.21.1",
       "modLoader": "Forge",
       "loaderVersion": "36.2.39",
+      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
       "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.2/mods.rar",
       "filesToDelete": [
         "mods/sparsestructures-fabric-1.21.1-2.2.0.jar",
