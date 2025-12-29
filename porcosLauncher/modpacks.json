@@ -30,7 +30,7 @@
     },
     {
       "id": "porcosland2",
-      "name": "PorcosLand 2",
+      "name": "PorcosLand 2 (One player)",
       "version": "1.0.0",
       "description": "Modpack oficial de PorcosLand 2",
       "minecraftVersion": "1.20.1",
@@ -47,55 +47,23 @@
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland.png?raw=true"
     },
     {
-      "id": "porcosland3",
-      "name": "PorcosLand 3",
-      "version": "1.0.0",
+      "id": "porcosland3world",
+      "name": "PorcosLand 3 (One player)",
+      "version": "2.0",
       "description": "Modpack oficial de PorcosLand 3",
       "minecraftVersion": "1.21.1",
-      "modLoader": "Forge",
-      "loaderVersion": "36.2.39",
-      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
-      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.0/porcosland3.rar",
+      "modLoader": "Neoforge",
+      "loaderVersion": "21.1.217",
+      "wallpaper": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3-wallpaper.png?raw=true",
+      "downloadUrl": "https://github.com/animespain1-hue/modpacks/releases/download/Porcosland3/porcosland3.part1.rar",
+      "downloadUrl2": "https://github.com/animespain1-hue/modpacks/releases/download/Porcosland3/porcosland3.part2.rar",
+      "downloadUrl3": "https://github.com/animespain1-hue/modpacks/releases/download/Porcosland3/porcosland3.part3.rar",
+      "downloadUrl4": "https://github.com/animespain1-hue/modpacks/releases/download/v1.0.0/porcosland3.part4.rar",
+      "downloadUrl5": "https://github.com/animespain1-hue/modpacks/releases/download/v1.0.0/porcosland3.part5.rar",
+      "downloadUrl6": "https://github.com/animespain1-hue/modpacks/releases/download/v1.0.0/porcosland3.part6.rar",
       "filesToDelete": [
       ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
-    },
-    {
-      "id": "porcosland3",
-      "name": "PorcosLand 3",
-      "version": "1.1.0",
-      "description": "Modpack oficial de PorcosLand 3",
-      "minecraftVersion": "1.21.1",
-      "modLoader": "Forge",
-      "loaderVersion": "36.2.39",
-      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
-      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.1/porcosland3v1.1.0.rar",
-      "filesToDelete": [
-        "mods/sparsestructures-fabric-1.21.1-2.2.0.jar",
-        "mods/gravestones-1.0.9.jar"
-      ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
-    },
-    {
-      "id": "porcosland3",
-      "name": "PorcosLand 3",
-      "version": "1.2.0",
-      "description": "Modpack oficial de PorcosLand 3",
-      "minecraftVersion": "1.21.1",
-      "modLoader": "Forge",
-      "loaderVersion": "36.2.39",
-      "wallpaper": "https://wallpapercave.com/wp/wp6115351.jpg",
-      "downloadUrl": "https://github.com/yalero/modpacks/releases/download/porcosland3-v1.2/mods.rar",
-      "filesToDelete": [
-        "mods/sparsestructures-fabric-1.21.1-2.2.0.jar",
-        "mods/gravestones-1.0.9.jar",
-        "mods/frostiful-2.2+1.21.1.jar",
-        "mods/lullaby-graves-v2.1.4.jar",
-        "mods/thermoo-4.5.jar",
-        "mods/thermoo-patches-3.6.0.jar",
-        "mods/tt20-0.7.1+mc1.21.jar"
-      ],
-      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3.png?raw=true"
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/porcosland3-neo.png?raw=true"
     }
   ]
 }
