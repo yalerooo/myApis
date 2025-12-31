@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "date": "2025-31-12",
-  "downloadUrl": "https://github.com/yalerooo/porcos-launcher-evo/releases/download/porcoslauncherevo0.1.2/PorcosLauncherEvo_0.1.2_x64-setup.exe",
-  "notes": "-Fixed JDk and modpacks downloads"
+  "downloadUrl": "https://github.com/yalerooo/porcos-launcher-evo/releases/download/porcoslauncherevo0.1.3/PorcosLauncherEvo_0.1.3_x64-setup.exe",
+  "notes": "-Fixed modpacks installation"
 }
