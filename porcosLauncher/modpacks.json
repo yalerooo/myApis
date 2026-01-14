@@ -120,6 +120,20 @@
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/iconchained.png?raw=true"
+    },
+    {
+      "id": "chainedcubilet",
+      "name": "Chained Cubilet",
+      "version": "1.3",
+      "description": "Modpack oficial de Cubilet 2",
+      "minecraftVersion": "1.21.8",
+      "modLoader": "Fabric",
+      "loaderVersion": "0.18.4",
+      "wallpaper": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/wallpaperchain2.png?raw=true",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/cubiletchain1.1/update3.rar",
+      "filesToDelete": [
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/modpack-icons/logocubi.png?raw=true"
     }
   ]
 }
