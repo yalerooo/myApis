@@ -148,6 +148,20 @@
       "filesToDelete": [
       ],
       "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/images/pokeza.png?raw=true"
+    },
+    {
+      "id": "pokeza",
+      "name": "COBBLEVERSE by ZA",
+      "version": "1.1",
+      "description": "Modpack oficial de COBBLEVERSE ZA",
+      "minecraftVersion": "1.21.1",
+      "modLoader": "Fabric",
+      "loaderVersion": "0.18.4",
+      "wallpaper": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/images/zapaper.png?raw=true",
+      "downloadUrl": "https://github.com/yalerooo/myApis/releases/download/COBBLEVERSE/coblev2.rar",
+      "filesToDelete": [
+      ],
+      "icon": "https://github.com/yalerooo/myApis/blob/main/porcosLauncher/images/pokeza2.png?raw=true"
     }
   ]
 }
